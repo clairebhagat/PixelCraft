@@ -1,4 +1,6 @@
 import java.awt.image.BufferedImage;
+package pixelcraft.filters;
+
 
 public class Grayscale extends Converter {
 

@@ -1,4 +1,6 @@
 import java.awt.image.BufferedImage;
+package pixelcraft;
+
 
 public class Rotate extends Converter {
 

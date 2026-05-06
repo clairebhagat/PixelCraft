@@ -1,4 +1,5 @@
 import java.awt.image.BufferedImage;
+package pixelcraft.filters;
 
 public class RecursivePosterize extends Converter {
 

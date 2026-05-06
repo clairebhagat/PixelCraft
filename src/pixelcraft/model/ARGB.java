@@ -1,3 +1,4 @@
+package pixelcraft.model;
 public class ARGB {
 
     /**
